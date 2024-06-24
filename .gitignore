@@ -1,2 +1,4 @@
 ./.idea
 .env
+./http-cli
+./http-cli.iml

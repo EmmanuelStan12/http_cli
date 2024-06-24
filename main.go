@@ -1,7 +1,7 @@
 package main
 
-import "fmt"
+import "http-cli/cmd"
 
 func main() {
-	fmt.Println("Hello, World!")
+	cmd.Execute()
 }
